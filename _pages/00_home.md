@@ -2,7 +2,7 @@
 layout: home
 permalink: /
 title: About
-desc_title: Monash-Algorand Centre of Excellence Summer School 2023
+desc_title: 
 description: 
 ---
 
