@@ -1,7 +1,7 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
-name: "ACE Summer School"
+name: "Secure and Trustworthy Deep Learning Systems (SecTL)"
 email:
 description: > # this means to ignore newlines until "url:"
   A Venue for neural compression
