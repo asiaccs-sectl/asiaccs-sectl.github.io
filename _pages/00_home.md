@@ -12,7 +12,7 @@ The Summer School is an annual event organised by our Algorand Centre of Excelle
 
 It will be a hybrid event and free to all students around the world to attend.
 
-<span style="color:red">**Limited travel stipends will be given to non-Melbourne based students who want to participate physically, while priority of physical attendance will be given to students coming from the universities within our ACE-SIP**</span> (Monash University **(non-Melbourne based students only)**, Swinburne University of Technology **(non-Melbourne based students only)**, University of Queensland, University of Sydney, University of Fiji, University of the South Pacific and Hong Kong Polytechnic University).
+<span style="color:red">**Limited travel stipends will be given to non-Melbourne based students who want to participate physically, while priority of stipend application will be given to students coming from the universities within our ACE-SIP**</span> (Monash University **(non-Melbourne based students only)**, Swinburne University of Technology **(non-Melbourne based students only)**, University of Queensland, University of Sydney, University of Fiji, University of the South Pacific and Hong Kong Polytechnic University).
 
 <table style="width:100%; border:none">
   <tr>
