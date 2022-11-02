@@ -4,12 +4,12 @@
 name: "Secure and Trustworthy Deep Learning Systems (SecTL)"
 email:
 description: > # this means to ignore newlines until "url:"
-  A Venue for neural compression
+  A Venue for Secure and Trustworthy Deep Learning Systems
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 
-url:  # the base hostname & protocol for your site
+url: https://asiaccs-sectl.github.io # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/
 last_updated: # leave blank if you don't want to display last updated
 
