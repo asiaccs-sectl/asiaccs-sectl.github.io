@@ -4,7 +4,7 @@ permalink: /cfp/
 title: Call for Papers
 ---
 
-## **Submission Instructions**
+### **Submission Instructions**
 
 Submitted papers must not substantially overlap papers that have been published or that are simultaneously submitted to a journal or a conference with proceedings. 
 **All submissions should be appropriately anonymized and a DOUBLE-BLIND REVIEW policy will be applied during the review process.**
@@ -21,7 +21,7 @@ This symposium will grant a few awards, including **ACM Best Paper Award** and *
 
 The submission site will open soon.
 
-## **Important Dates**
+### **Important Dates**
 
 **Submission Deadline**: Feb 15th, 2023
 
