@@ -12,14 +12,15 @@ Submissions must be in double-column ACM SIG Proceedings format, and should not 
 
 * Full-Length Paper = 12 Page Limit + up to 2 extra pages for appendices only
 * Short Paper = 6 Page Limit + up to 2 extra pages for appendices only
-* Poster/Late Breaking = 3 Page Limit (for all content, no extra pages)
 
 Position papers describing the work in progress are also welcome. 
 Only pdf files will be accepted. Authors of accepted papers must guarantee that their papers will be presented at the workshop. At least one author of the paper must be registered at the appropriate conference rate. 
 Accepted papers will be published in the ACM Digital Library. 
-This symposium will grant a few awards, including **ACM Best Paper Award** and **ACM Best Student Award**.
+This symposium will grant a  **Best Paper Award** and a **Best Student Paper Award**.
 
-The submission site will open soon.
+Submission site is now open.
+
+[<button>Paper Submission</button>](https://sectl23.hotcrp.com)
 
 ### **Important Dates**
 
