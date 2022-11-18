@@ -19,6 +19,8 @@ Only pdf files will be accepted. Authors of accepted papers must guarantee that 
 Accepted papers will be published in the ACM Digital Library. 
 This symposium will grant a few awards, including **ACM Best Paper Award** and **ACM Best Student Award**.
 
+The submission site will open soon.
+
 ## **Important Dates**
 
 **Submission Deadline**: Feb 15th, 2023
