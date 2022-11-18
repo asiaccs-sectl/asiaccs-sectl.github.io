@@ -20,7 +20,7 @@ This symposium will grant a  **Best Paper Award** and a **Best Student Paper Awa
 
 Submission site is now open.
 
-[<button>Paper Submission</button>](https://sectl23.hotcrp.com)
+[Submit Your Paper Here](https://sectl23.hotcrp.com)
 
 ### **Important Dates**
 
