@@ -16,6 +16,7 @@ Areas of interest include (but not limited to):
 * Secure federated systems for decentralised deep learning
 * Security and privacy in on-device deep learning systems and applications
 
+Position papers describing the work in progress are also welcome.
 
 ### **Submission Instructions**
 
@@ -26,7 +27,6 @@ Submissions must be in double-column ACM SIG Proceedings format, and should not 
 * Full-Length Paper = 12 Page Limit + up to 2 extra pages for appendices only
 * Short Paper = 6 Page Limit + up to 2 extra pages for appendices only
 
-Position papers describing the work in progress are also welcome. 
 Only pdf files will be accepted. Authors of accepted papers must guarantee that their papers will be presented at the workshop. At least one author of the paper must be registered at the appropriate conference rate. 
 Accepted papers will be published in the ACM Digital Library. 
 This symposium will grant a  **Best Paper Award** and a **Best Student Paper Award**.
