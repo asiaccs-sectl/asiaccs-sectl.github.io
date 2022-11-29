@@ -4,6 +4,19 @@ permalink: /cfp/
 title: Call for Papers
 ---
 
+Areas of interest include (but not limited to):
+
+* Adversarial/poisoning attacks against deep learning tasks
+* Defenses to improve deep learning system robustness
+* Privacy-preserving deep learning systems and protocols
+* Secure computation based solutions for deep learning training and inference
+* Privacy inference attacks against deep learning systems, e.g., membership inference, model extraction, model inversion
+* Intersection among fairness, privacy, robustness, explainability, accountability, and environmental wellbeings in deep learning systems
+* Trustworthy deep learning systems for domain specific applications, e.g., energy, medical AI, smart manufacturing, etc.
+* Secure federated systems for decentralised deep learning
+* Security and privacy in on-device deep learning systems and applications
+
+
 ### **Submission Instructions**
 
 Submitted papers must not substantially overlap papers that have been published or that are simultaneously submitted to a journal or a conference with proceedings. 
@@ -12,18 +25,6 @@ Submissions must be in double-column ACM SIG Proceedings format, and should not 
 
 * Full-Length Paper = 12 Page Limit + up to 2 extra pages for appendices only
 * Short Paper = 6 Page Limit + up to 2 extra pages for appendices only
-
-Areas of interest include (but not limited to):
-
-* Adversarial/poisoning attacks against deep learning tasks
-* Defenses to improve deep learning system robustness
-* Privacy-preserving deep learning systems and protocols
-* Secure computation based solutions for deep learning training and inference
-* Privacy inference attacks against deep learning systems, e.g., membership inference, model extraction, model inversion
-* Intersecion among fairness, privacy, robustness, explainability, accountability, and enviromental wellbeings in deep learning systems
-* Trustworthy deep learning systems for domain speciﬁc applications, e.g., energy, medical AI, smart manufacturing, etc.
-* Secure federated systems for decentralised deep learning
-* Security and privacy in on-device deep learning systems and applications
 
 Position papers describing the work in progress are also welcome. 
 Only pdf files will be accepted. Authors of accepted papers must guarantee that their papers will be presented at the workshop. At least one author of the paper must be registered at the appropriate conference rate. 

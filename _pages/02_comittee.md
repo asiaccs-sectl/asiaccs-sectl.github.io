@@ -6,47 +6,47 @@ title: Committee
 
 #### **Workshop Program Chairs**
 
-[Ruoxi Jia](https://ruoxijia.info), Virginia Tech, USA
+[Ruoxi Jia](https://ruoxijia.info), Virginia Tech
 
-[Jason Xue](https://people.csiro.au/X/J/Jason-Xue), CSIRO's Data61, Australia
+[Jason Xue](https://people.csiro.au/X/J/Jason-Xue), CSIRO's Data61
 
-[Xingliang Yuan](https://xyuancs.github.io), Monash University, Australia
+[Xingliang Yuan](https://xyuancs.github.io), Monash University
 
 #### **Web Chair**
 
-Shangqi Lai, Monash University, Australia
+Shangqi Lai, Monash University
 
 #### **Technical Program Committee**
 
-Huaming Chen, The University of Sydney, Australia
+Huaming Chen, The University of Sydney
 
-Yufei Chen, City University of Hong Kong, Hong Kong
+Yufei Chen, City University of Hong Kong
 
-Kwok Yan Lam, The Nanyang Technological University, Singapore
+Kwok Yan Lam, The Nanyang Technological University
 
-Wanyu Lin, The Hong Kong Polytechnic University, Hong Kong
+Wanyu Lin, The Hong Kong Polytechnic University
 
-Xiaoning (Maggie) Liu, RMIT, Australia
+Xiaoning (Maggie) Liu, Royal Melbourne Institute of Technology
 
-Stjepan Picek, Radboud University & Delft University of Technology, Netherlands
+Stjepan Picek, Radboud University & Delft University of Technology
 
-Vera Rimmer, Katholieke Universiteit Leuven, Belgium
+Vera Rimmer, Katholieke Universiteit Leuven
 
-Guangyu Shen, Purdue University, USA
+Guangyu Shen, Purdue University
 
-Ruoxi Sun, CSIRO's Data61, Australia
+Ruoxi Sun, CSIRO's Data61
 
-Gareth Tyson, The Hong Kong University of Science and Technology, Hong Kong
+Gareth Tyson, The Hong Kong University of Science and Technology
 
-Yanqiu (Autumn) Wu,  CSIRO’s Data61, Australia
+Yanqiu (Autumn) Wu,  CSIRO’s Data61
 
-Yanjun Zhang, Deakin University, Australia
+Yanjun Zhang, Deakin University
 
-Zhi Zhang, The University of Western Australia, Australia
+Zhi Zhang, The University of Western Australia
 
-Benjamin Zi Hao Zhao, Macquarie University, Australia
+Benjamin Zi Hao Zhao, Macquarie University
 
-Lingchen Zhao, Wuhan University, China
+Lingchen Zhao, Wuhan University
 
 
 
