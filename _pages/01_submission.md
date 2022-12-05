@@ -29,7 +29,7 @@ Submissions must be in double-column ACM SIG Proceedings format, and should not 
 
 Only pdf files will be accepted. Authors of accepted papers must guarantee that their papers will be presented at the workshop. At least one author of the paper must be registered at the appropriate conference rate. 
 Accepted papers will be published in the ACM Digital Library. 
-This symposium will grant a  **Best Paper Award** and a **Best Student Paper Award**.
+This symposium will grant a  **Best Paper Award**.
 
 Submission site is now open.
 
