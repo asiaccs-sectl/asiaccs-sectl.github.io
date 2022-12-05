@@ -38,6 +38,8 @@ Ruoxi Sun, CSIRO's Data61
 
 Gareth Tyson, The Hong Kong University of Science and Technology
 
+Viet Vo, The University of Queensland
+
 Yanqiu (Autumn) Wu,  CSIRO’s Data61
 
 Yanjun Zhang, Deakin University
