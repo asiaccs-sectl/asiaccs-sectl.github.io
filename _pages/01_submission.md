@@ -37,7 +37,7 @@ Submission site is now open.
 
 ### **Important Dates**
 
-**Submission Deadline**: Feb 15th, 2023
+**Submission Deadline**: ~~Feb 15th, 2023~~**Feb 28th, 2023 (no extension)**
 
 **Notification Due**: March 31st, 2023
 
