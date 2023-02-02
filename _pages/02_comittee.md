@@ -8,7 +8,7 @@ title: Committee
 
 [Ruoxi Jia](https://ruoxijia.info), Virginia Tech
 
-[comment]: <> ([Jason Xue]&#40;https://people.csiro.au/X/J/Jason-Xue&#41;, CSIRO's Data61)
+[Jason Xue](https://people.csiro.au/X/J/Jason-Xue), CSIRO's Data61
 
 [Xingliang Yuan](https://xyuancs.github.io), Monash University
 
