@@ -19,12 +19,12 @@ nav: true
     <tr style="text-align: center;">
         <td style="vertical-align: middle">09:10 AM - 10:10 AM</td>
         <td width="60%"><b>Keynote 1: Attacking Machine Learning Models</b><br><strong>Speaker: </strong>Prof. Yang Zhang</td>
-        <td style="text-align:center;vertical-align:middle;"><i class="h4">Session Chair:<br>Dr. Jason Xue</i></td>
+        <td style="text-align:center;vertical-align:middle;"><i class="h4">Session Chair:<br>Jason Xue<br>(CSIRO's Data61)</i></td>
     </tr>
     <tr style="text-align: center;">
         <td style="vertical-align: middle">10:10 AM - 10:50 AM</td>
         <td><strong>Session I: Privacy-Preserving Machine Learning</strong></td>
-        <td rowspan="3" style="text-align:center;vertical-align:middle;"><i class="h4">Session Chair:<br>Dr. Maggie (Xiaoning) Liu</i></td>    
+        <td rowspan="3" style="text-align:center;vertical-align:middle;"><i class="h4">Session Chair:<br>Maggie (Xiaoning) Liu (RMIT University)</i></td>    
     </tr>
     <tr style="text-align: center;">
         <td style="vertical-align: middle">10:10 AM - 10:30 AM</td>
@@ -43,7 +43,7 @@ nav: true
     <tr style="text-align: center;">
         <td style="vertical-align: middle">11:10 AM - 11:50 AM</td>
         <td><strong>Session II: Security in On-device Machine Learning</strong></td>
-        <td rowspan="3" style="text-align:center;vertical-align:middle;"><i class="h4">Session Chair:<br>Dr. Ruoxi Sun</i></td>    
+        <td rowspan="3" style="text-align:center;vertical-align:middle;"><i class="h4">Session Chair:<br>Ruoxi Sun<br>(CSIRO's Data61)</i></td>    
     </tr>
     <tr style="text-align: center;">
         <td style="vertical-align: middle">11:10 AM - 11:30 AM</td>
@@ -62,12 +62,12 @@ nav: true
     <tr style="text-align: center;">
         <td style="vertical-align: middle">01:30 PM - 02:30 PM</td>
         <td width="60%"><b>Keynote 2: Adversarial Attacks and Defenses in Deep Learning: from a Perspective of Cybersecurity</b><br><strong>Speaker: </strong>Prof. Tianqing Zhu</td>
-        <td style="text-align:center;vertical-align:middle;"><i class="h4">Session Chair:<br>Dr. Xingliang Yuan</i></td>
+        <td style="text-align:center;vertical-align:middle;"><i class="h4">Session Chair:<br>Shangqi Lai<br>(Monash University)</i></td>
     </tr>
     <tr style="text-align: center;">
         <td style="vertical-align: middle">02:30 PM - 03:10 PM</td>
-        <td><strong>Session III: Adversarial Attacks and Defenses in Deep Learning: from a Perspective of Cybersecurity</strong></td>
-        <td rowspan="3" style="text-align:center;vertical-align:middle;"><i class="h4">Session Chair:<br>Dr. Tingmin (Tina) Wu</i></td>    
+        <td><strong>Session III: Attacks and Defences</strong></td>
+        <td rowspan="3" style="text-align:center;vertical-align:middle;"><i class="h4">Session Chair:<br>Tingmin (Tina) Wu<br>(CSIRO's Data61)</i></td>    
     </tr>
     <tr style="text-align: center;">
         <td style="vertical-align: middle">02:30 PM - 02:50 PM</td>
@@ -81,12 +81,12 @@ nav: true
     </tr>
      <tr style="text-align: center;">
         <td style="vertical-align: middle">03:10 PM - 03:30 PM</td>
-        <td colspan="2"><strong>Lunch Break</strong></td>
+        <td colspan="2"><strong>Coffee Break</strong></td>
     </tr>
     <tr style="text-align: center;">
         <td style="vertical-align: middle">03:30 PM - 04:10 PM</td>
         <td><strong>Session IV: Adversial Attacks in Physical World</strong></td>
-        <td rowspan="3" style="text-align:center;vertical-align:middle;"><i class="h4">Session Chair:<br>Dr. Huaming Chen</i></td>    
+        <td rowspan="3" style="text-align:center;vertical-align:middle;"><i class="h4">Session Chair:<br>Huaming Chen<br>(University of Syndey)</i></td>    
     </tr>
     <tr style="text-align: center;">
         <td style="vertical-align: middle">03:30 PM - 03:50 PM</td>
