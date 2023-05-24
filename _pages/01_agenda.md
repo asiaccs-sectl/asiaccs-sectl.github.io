@@ -2,7 +2,7 @@
 layout: page
 permalink: /agenda/
 title: Agenda
-nav: true
+published: false
 ---
 <table>
     <tr>
