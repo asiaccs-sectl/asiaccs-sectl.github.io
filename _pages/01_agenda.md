@@ -5,7 +5,7 @@ title: Agenda
 ---
 <table>
     <tr>
-        <th colspan="3" style="text-align: center;"><strong class="h3">Mon, 10 Jul 2023</strong><br>Room: Treasury</th>
+        <th colspan="3" style="text-align: center;"><strong class="h3">Mon, 10 Jul 2023<br>Room: Treasury</strong></th>
     </tr>
     <tr style="text-align: center;">
         <td><strong class="h4">Time (AEST/GMT+10)</strong></td>
