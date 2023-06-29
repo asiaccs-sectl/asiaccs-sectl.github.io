@@ -27,7 +27,7 @@ nav: true
     </tr>
     <tr style="text-align: center;">
         <td style="vertical-align: middle" align="justify"><strong class="h4">Energy-Latency Attacks to On-Device Neural Networks via Sponge Poisoning</strong></td>
-        <td colspan="2" style="vertical-align: middle" align="justify">Zijian Wang (Monash University), Shuo Hang (Monash University), Yujin Huang (Monash University), Helei Cui (Northwestern Polytechnical University)</td>
+        <td colspan="2" style="vertical-align: middle" align="justify">Zijian Wang (Monash University), Shuo Huang (Monash University), Yujin Huang (Monash University), Helei Cui (Northwestern Polytechnical University)</td>
     </tr>
     <tr style="text-align: center;">
         <td style="vertical-align: middle" align="justify"><strong class="h4">Beyond the Model: Data Pre-processing Attack to Deep Learning Models in Android Apps</strong></td>
