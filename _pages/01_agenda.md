@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /agenda/
+permalink: /2023/agenda/
 title: Agenda
 published: false
 ---
