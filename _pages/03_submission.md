@@ -28,14 +28,21 @@ Position papers describing the work in progress are also welcome. Only pdf files
 
 ### **Important Dates (Two Cycles)**
 
-**Submission Deadline 1**: 8 Dec 2024
-
-**Notification**: 20 Jan 2025
-
-**Camera Ready Submission**: 16 May 2025
-
-**Submission Deadline 2**: 18 Mar 2025
-
-**Notification**: 28 Apr 2025
-
-**Camera Ready Submission**: 16 May 2025
+<table border=1 frame=hsides rules=rows>
+    <tr style="text-align: center;">
+        <td><strong class="h4">First Cycle</strong></td>
+        <td style="vertical-align: middle"><strong class="h4">Second Cycle</strong></td>
+    </tr>
+    <tr style="text-align: center;">
+        <td>Submission Deadline: <strong>8 Dec 2024</strong></td>
+        <td>Submission Deadline: <strong>18 Mar 2025</strong></td>
+    </tr>
+    <tr style="text-align: center;">
+        <td>Notification: <strong>20 Jan 2025</strong></td>
+        <td>Notification: <strong>28 Apr 2025</strong></td>
+    </tr>
+    <tr style="text-align: center;">
+        <td col>Camera-Ready Submission: <strong>16 May 2025</strong></td>
+        <td>Camera-Ready Submission: <strong>16 May 2025</strong></td>
+    </tr>
+</table>
