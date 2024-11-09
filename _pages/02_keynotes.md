@@ -8,7 +8,7 @@ title: Keynotes
 
 <table style="width:100%; border:none">
   <tr>
-    <td style="text-align:center;border:none"><img src="/assets/img/speaker_yang_zhang.jpg" height="175"></td>
+    <td style="text-align:center;border:none"><img src="/2023/assets/img/speaker_yang_zhang.jpg" height="175"></td>
     <td style="text-align:left;border:none"><b>Prof. Yang Zhang</b><br/>Tenured Faculty (equiv. Professor), CISPA Helmholtz Center for Information Security, Germany</td>
   </tr>
 </table>
@@ -21,7 +21,7 @@ title: Keynotes
 
 <table style="width:100%; border:none">
   <tr>
-    <td style="text-align:center;border:none"><img src="/assets/img/speaker_tianqing_zhu.jpg" height="175"></td>
+    <td style="text-align:center;border:none"><img src="/2023/assets/img/speaker_tianqing_zhu.jpg" height="175"></td>
     <td style="text-align:left;border:none"><b>Prof. Tianqing Zhu</b><br/>Associate Professor, The University of Technology Sydney, Australia</td>
   </tr>
 </table>
