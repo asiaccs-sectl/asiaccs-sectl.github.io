@@ -6,7 +6,7 @@ title: Committee
 
 #### **Workshop Program Chairs**
 
-[uangdong Bai, The University of Queensland, Australia
+Guangdong Bai, The University of Queensland, Australia
 
 Viet Vo, Swinburne University of Technology, Australia
 
