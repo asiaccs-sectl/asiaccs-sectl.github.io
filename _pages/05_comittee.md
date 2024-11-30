@@ -20,7 +20,48 @@ Minhui (Jason) Xue, CSIRO’s Data61, Australia
 
 Shangqi Lai, CSIRO’s Data61, Australia
 
-#### **Technical Program Committee (TBA)**
+#### **Technical Program Committee**
+
+Min Chen, Vrije Universiteit Amsterdam
+
+Yufei Chen, City University of Hong Kong
+
+Thusitha Dayaratne, Monash University
+
+Minghong Fang, University of Louisville
+
+Yansong Gao, University of Western Australia
+
+Thang Hoang, Virginia Tech
+
+Rayne Holland, CSIRO's Data61
+
+Ding Li, Peking University
+
+Xiaoning Liu, RMIT University
+
+Ziyao Liu, Nanyang Technological University
+
+Wanlun Ma, Swinburne University - Australia
+
+Hung Nguyen, The University of Adelaide
+
+Stjepan Picek, Radboud University
+
+Shi-Feng Sun, Shanghai Jiao Tong University
+
+Colin ChoonLin Tan, Swinburne University - Malaysia
+
+Shuo Wang, Shanghai Jiao Tong University
+
+Bang Wu, RMIT University
+
+Chia-Mu Yu, National Yang Ming Chiao Tung University
+
+Yanjun Zhang, University of Technology Sydney
+
+Ziqi Zhang, University of Illinois Urbana-Champaign
+
 
 
 
