@@ -12,3 +12,4 @@ Deep learning systems are increasingly applied across sectors such as data scien
 
 We invite research papers, position papers, and work-in-progress papers that explore best practices, new methods, and secure design principles for deep learning systems. SecTL 2025 follows successful editions held in Melbourne (2023) (see [link](https://asiaccs-sectl.github.io/2023/)) and Singapore (2024) (see [link](https://www.sectl.com)).
 
+<span style="color:red">**Submission for R2 is now open, please use this [link](https://sectl25cycle2.hotcrp.com/) to submit your work. You may checkout detailed instructions on the [CFP page](cfp).**</span>

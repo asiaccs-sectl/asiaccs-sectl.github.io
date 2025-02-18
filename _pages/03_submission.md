@@ -20,7 +20,7 @@ Areas of interest include (but not limited to):
 
 ### **Submission Instructions**
 
-Paper submission site: **[Submit Your Paper Here](https://sectl25cycle1.hotcrp.com/u/0/)**
+Paper submission site: **[Submit Your Paper Here](https://sectl25cycle2.hotcrp.com/)**
 
 Submitted papers must not substantially overlap papers that have been published or that are simultaneously submitted to a journal or a conference with proceedings. **All submissions should be appropriately anonymized and a DOUBLE-BLIND REVIEW policy will be applied during the review process.** Submissions must be in double-column ACM SIG Proceedings format (see [here](https://www.acm.org/publications/proceedings-template)) and **should not exceed 12 pages**, including references and appendices.
 
