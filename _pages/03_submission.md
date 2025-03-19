@@ -35,7 +35,7 @@ Position papers describing the work in progress are also welcome. Only pdf files
     </tr>
     <tr style="text-align: center;">
         <td>Submission Deadline: <strong>22 Dec 2024 (23:59:59 AoE)</strong></td>
-        <td>Submission Deadline: <strong>(Extended) 25 Apr 2025 (23:59:59 AoE)</strong></td>
+        <td>Submission Deadline <span style="color: red">(Extended)</span>: <strong>25 Apr 2025 (23:59:59 AoE)</strong></td>
     </tr>
     <tr style="text-align: center;">
         <td>Notification: <strong>3 Feb 2025</strong></td>
