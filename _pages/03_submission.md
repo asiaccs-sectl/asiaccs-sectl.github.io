@@ -35,14 +35,14 @@ Position papers describing the work in progress are also welcome. Only pdf files
     </tr>
     <tr style="text-align: center;">
         <td>Submission Deadline: <strong>22 Dec 2024 (23:59:59 AoE)</strong></td>
-        <td>Submission Deadline: <strong>18 Mar 2025 (23:59:59 AoE)</strong></td>
+        <td>Submission Deadline: <strong>(Extended) 25 Apr 2025 (23:59:59 AoE)</strong></td>
     </tr>
     <tr style="text-align: center;">
         <td>Notification: <strong>3 Feb 2025</strong></td>
-        <td>Notification: <strong>28 Apr 2025</strong></td>
+        <td>Notification: <strong>20 May 2025</strong></td>
     </tr>
     <tr style="text-align: center;">
         <td col>Camera-Ready Submission: <strong>16 May 2025</strong></td>
-        <td>Camera-Ready Submission: <strong>16 May 2025</strong></td>
+        <td>Camera-Ready Submission: <strong>27 May 2025</strong></td>
     </tr>
 </table>
