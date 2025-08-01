@@ -64,7 +64,7 @@ published: true
         <td colspan="2"><strong>Poster Discussion</strong></td>
     </tr>
     <tr style="text-align: center;">
-        <td style="vertical-align: middle">17:30 - 17:45</td>
+        <td style="vertical-align: middle">17:30 - 17:40</td>
         <td colspan="2"><strong>Closing Remark</strong></td>
     </tr>
 </table>
